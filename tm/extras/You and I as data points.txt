@@ -1,0 +1,109 @@
+﻿https://medium.com/@lamthuyvo/you-and-me-as-data-points-958ed4723f51
+
+You and I as data points
+Lam Thuy Vo
+
+Thoughts on using personal data for storytelling as delivered to the audience of the Tribeca Film Institute’s Interactive Day on April 18, 2015.
+
+Data. It’s all the rage. Well, at least it seems so in the job market, in reports in the media and in many many businesses.
+
+In part that’s because there’s so much of it out there now. digital storage has become almost unreasonably cheap. Think of it: in 1957, IBM introduced a computer that held of 5MB of storage and that thing was worth the equivalent of about $1 million.
+IBM’s computer
+
+Now that same storage costs about $0.0005. That has led to an explosion of data storage and thereby to and abundance of data.
+
+And it’s being used in all sorts of ways. Huge corporations use data to market products at you. police departments are now predicting crimes based on data. Health departments can provide better care based on statistics.
+
+But while there’s a lot of practical use for this plethora of information it can be so so hard to enthuse anyone here — all of you lovely storytellers, artists and filmmakers — about numbers. About spreadsheets. About data.
+
+And I totally understand. Data looks horribly dry. Void of humans, characters, emotions. Or at least so it seems.
+
+But I want you to start thinking about data in different ways. A good friend of mine explained data to me in a way that kinda blew my mind. And here it is: on some level, data is the result of someone asking questions over and over and over again speaking to multiple people. And so if you really think about it, data represents a fundamental part of non-fiction storytelling: the interview.
+
+I know so many filmmakers and journalists who tell beautiful stories but have such an aversion to data. I was one of them! For the first few years in my career, all I did was video and I thought that finding characters and following them was everything I needed for a good story. But if there’s one thing I want you to take away from this talk is that there are humans behind many of these dry dry data sets and that once you recognize that, you can mine data for some truly emotional, empathetic and relatable stories.
+
+Let’s start with this: consider the data point.
+
+If you think of data as an interview done on a massive scale with individuals, perhaps you can start by seeing each row as a human being. Sure, once you run all these interviews through statistical programs they might become cold and hard facts. But in its rawest form, every row in a data set can represent an individual who answered a set number of questions.
+
+And so, this specific data point could represent you…Or, for the sake of this presentation, me!
+Lam, the data point
+
+Last year, around this time I used this way of thinking — of myself as a data point — to cope with heartbreak.
+
+On March 19, 2014, I had become one of 147,451 divorcees in brooklyn.
+
+That day I went from being legally married to legally divorced. l had heard about this news from my lawyer.
+
+Two brutal lines: “you are divorced. Sent from my iPhone”
+
+And as I was reckoning this news I felt alone. Trapped in the words that my lawyer’s godforsaken iPhone had delivered to me.
+
+But then I researched some divorce-related data — this should tell you a lot about me — and recognizing just how many divorcees were in the same borough as me made me feel less alone.
+
+And this is the graphic I made from this data. It starts that tiny spec there, which represents me. and each dot represents another divorcee in Brooklyn
+
+This is actually one of many graphics I made to process my divorce. At the depths of my depression — and the height of my ice cream consumption — a friend suggested that I should make charts about my divorce. So i started a blog called quantified breakup.
+
+It was surprising how many emotions I could mine from data. Sure you still have to approach your data sets with the methodologies of a scientist. But to unlock the emotional potential of data you just have to ask the right questions from those spreadsheets. And yes, if you really want to you can find a human side to data.
+
+Think of how silly we are after a breakups. How much leeway we give ourselves to do the things we’ve been wanting to do. Like buying stuff we don’t need!
+
+This graphic for instance represents three months of retail therapy. The things I bought were ranked on a scale of 1 to 10, from absolutely useless to incredibly useful.
+Data is from PDFs of my bank account statements
+
+For one graphic I looked into the anxiety you feel when you’re in an apartment that you used to share with someone. Remember Forrest Gump? During one part, Jenny comes to stay with him, the two fall in love and she kinda disappears one day. That’s the part in the movie when he gets out of the apartment and just runs, cause it totally sucks to have to stay behind in a place that’s full of memories.
+Jenny gone. Sad Forrest.
+
+Well, this is me taking a random bike ride around Chinatown when I was channeling my inner Forrest.
+Movement to counter anxiety
+
+There’s also the process of falling for someone. If you mine your phone for all the text messages you sent someone you were trying to date, you might find a certain pattern.
+
+There was a phase when I was trying online dating. Anyone here give it a try? It sucks. It’s dry. And most conversations on your phone peter out pretty fast.
+
+Here’s a list of text messages I exchanged with potential dates. Lots of pretty boring dudes… but then… 1249 text messages!
+Number of text messages exchanged with different online contacts
+
+All of the exchanged within just 4 weeks. Let’s see what that graphic actually looked like.
+A gif of the text messaging graphic
+
+Pretty fun, huh?
+
+I used spy software to download data from my phone, found ways to extract data from my social media accounts and even went to my gym to get a printed data set of my workout summary. Data isn’t void of human nature. Quite the opposite. There was an acting, breathing human with a personality and a story behind these graphics — me. And if you remember that human beings are often behind data sets you can query this data for stories and hopefully find some insights into these individuals.
+
+Well, it’s not just emotions that we can explore with this data, with what some people might call the “Quantified Self.” What if we could create empathy with a data story?
+
+Well, during the day — when I’m not making charts about my emotional trials and tribulations — I work for Al Jazeera America, where I tell stories about poverty with graphics, videos, photos and words. Part of my job is to make you empathize and understand the lives of the poor. For one story, we wanted to highlight how people lived on a super tight budget. So how do you show that it sucks if you don’t have enough money for a car and instead have to take a bus to work?
+
+This way.
+
+We followed a nanny whose commute is 2-hours to work and back — that’s 4 hours every day. This same commute would take 18 minutes if she could afford it. 65 bus stops, about 15 minutes of walking and one bus transfer vs. getting into a car and driving for 20 minutes.
+
+This “quantified selfie” does a much better job than my words to describe how much it sucks to not be able to afford a car.
+
+Maybe we should take it one step further. What if we used personal data customize the story that each viewer sees? I want to talk to you guys about stories that are personalized and tailored to each viewer. These are stories that are extra-relatable because they have been constructed specifically for you.
+
+On television and in cinemas there is a fairly one-sided relationship between the audience and the artist. The artist creates and the audience collectively experiences the same story.
+
+Two collaborators who met at POV’s hackathon and I created a platform that allows us to seamlessly integrate up to date information scraped and collected from the Internet into a video. It also allows for information displayed on the video to be custom tailored to a specific viewer.
+How Data Docs works
+
+This is all really abstract, so let me show you an example.
+
+We produced this video to look into the influence of money in politics. In the abstract this story means little to people. But what we wanted to do is to relate this subject to the person watching it right now.
+A demo of the video
+
+With one simple data point — your geolocation — and the data from various other sources you can make this abstract topic of money in politics relatable to each viewer.
+
+It’s hugely powerful. Cause let’s face it: we get more and more inundated with information and have a shorter and shorter attention span. What that means is we as consumers mostly care about ourselves, our loved ones and our own interests. To yank someone out of their lack of empathy, what we can do is use data to personalize stories. Advertisers and politicians are already doing that. Let us as storytellers do the same.
+
+What’s more is that this data is already being produced. Instead of recording my spending, instead of jotting down how often I sent a text message to a specific person, and instead of recording every Facebook like and every tweet I made, I can find that data almost effortlessly on every device, app and web site I find.
+
+Every time you connect to an app or web service like seamless or Uber or Paypal and you allow a private company to access your personal data. Whenever you log into a service with your Facebook or Twitter account, you allow a third party access to your data through what is called an API.
+
+What if we harvested this data and started tailoring the content you see to the person’s online behavior? What if we played with how we told the story based on their information?
+
+In summary, I just want to reiterate: data is not just some abstract and dry source of information. It can be a way to explore human and emotional stories, to create empathy and to make an issue relatable.
+
+And come to think of it… Isn’t that what we try to do documentaries in the first place?

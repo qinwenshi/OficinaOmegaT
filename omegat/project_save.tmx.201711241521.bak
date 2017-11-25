@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>% Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>% Comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s at %2$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s em %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s installed and activated successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s instalado e ativado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s installed successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s instalado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s thoughts on &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s ideias sobre &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s, %2$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>%1$s, %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;laquo; Previous</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;laquo; Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;larr;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;larr;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;larr; Older Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;larr; Comentários mais antigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;larr; Previous</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;larr; Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;rarr;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;rarr;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Edit)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Editar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1 Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1,2,3,4 Columns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1,2,3,4 colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>600+</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>600+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a class="comment-permalink" href="%1$s"&gt;Permalink&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;a class="comment-permalink" href="%1$s"&gt;Permalink&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="date"&gt;&lt;a href="%1$s" title="%2$s" rel="bookmark"&gt;%3$s&lt;/a&gt;&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;span class="date"&gt;&lt;a href="%1$s" title="%2$s" rel="bookmark"&gt;%3$s&lt;/a&gt;&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="meta-nav"&gt;&amp;larr;&lt;/span&gt; Older posts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;span class="meta-nav"&gt;&amp;larr;&lt;/span&gt; Posts antigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate %2$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativar %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate favicon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativar favicon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate slider</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativar slider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional Top Header</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cabeçalho opcional do topo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tudo &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All Theme Options are available via Customize screen.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as Opções do Tema estão disponíveis via Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All installations and activations have been completed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as instalações e ativações foram concluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All installations have been completed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as instalações foram completadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while installing %1$s: &lt;strong&gt;%2$s&lt;/strong&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu um erro ao instalar %1$s: &lt;strong&gt;%2$s&lt;/strong&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Archives</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Asides</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author Bio</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor Biografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão disponível:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin activating plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a ativar o plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin activating plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a ativar os plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin installing plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a instalar o plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin installing plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a instalar os plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin updating plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a atualizar plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin updating plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começar a atualizar os plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Full Content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo completo do blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Image Alternate Medium</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem média alternativa do blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Image Large</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem grande do blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Image Medium</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem média do blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog Posts display type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de exibição para os posts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boxed &amp; Wide layout option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opção de layout em caixa ou largura total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boxed layout with content width of 1218px</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Boxed layout com largura de conteúdo de 1218px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boxed layout with content width of 978px</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Boxed layout com largura de conteúdo de 978px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BreadCrumb Custom Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto personalizado do BreadCrumb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breadcrumb NavXT</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Breadcrumb NavXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breadcrumb NavXT Compatible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compatível com Breadcrumb NavXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business Bottom Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Business Bottom Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business Middle Left Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Business Middle Left Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business Middle Right Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Business Middle Right Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo Negócios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business Top Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Business Top Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Button Redirect Link:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Link de redirecionamento do botão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Button Text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto do botão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Byline:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Call to Action Additional Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto adicional do Call to Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Call to Action Main Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto principal do Call to action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changelog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Log de alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cheatin&amp;#8217; huh?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hack huh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check to activate slider.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marque para ativar o slider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check to disable slider in Posts Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marque para disabilitar o slider na página de posts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the display type for the latests posts view or posts page view (static front page).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o tipo de exibição para os posts mais recentes ou páginas dos posts (home estática).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the option that you want.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha a opção que você quer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose top header image display position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha a posição da imagem do cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click below to translate this theme into your own language.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique abaixo para traduzir este tema para seu idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color Palette</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Paleta de cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color Skin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Color skin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment navigation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegação dos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments Off</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentários desativados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments are closed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os comentários estão desativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact Form 7</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contact Form 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página de contato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact Page Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contact Page Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact Page Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo da página de contato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright &amp;copy; %1$s %2$s.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copyright &amp;copy; %1$s %2$s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom CSS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CSS Personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Day: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dia: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Layout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layout Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default layout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layout Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default layout for pages only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layout padrão para páginas, apenas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default layout for single posts only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layout padrão para posts simples apenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Demo Content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo demo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable slider in Posts page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desabilitar o slider na página de posts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dismiss</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dismiss this notice</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descartar essa notificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Featured Single Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar Featured Single Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Testimonial</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar testemunho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the title of the Page if title input is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar o título da página se o campo de título estiver vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy Social Sharing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compartilhamento social fácil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter link to redirect slider when clicked</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coloque o link para redirecionar quando clicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter title for your slider.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dê um título para o seu slider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your slider description.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dê uma descrição para o seu slider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error 404 Page Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro 404 Page Sidebar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Origem externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Características</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font Size options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções de tamanho de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Copyright Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor dos créditos no rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menu do Rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Sidebar Four</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Footer Sidebar Four</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Sidebar One</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Footer Sidebar One</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Sidebar Three</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Footer Sidebar Three</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Sidebar Two</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Footer Sidebar Two</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer Widgets Column</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coluna de widgets do rodapé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forum</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fórum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forum + Emails/Support Ticket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fórum + E-mails/Ticket de Suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free Vs Pro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Grátis X Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fully Compatible in Pro Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Totalmente compatível na versão Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get started with Spacious</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começando com Spacious</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Dashboard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o painel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Dashboard &amp;rarr; Home</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para Painel &amp;rarr; Início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Fonts Option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do Google Fonts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Got sales related question?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Possui uma dúvida com relação a venda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Got theme support question?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Possui uma dúvida de suporte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header Image Position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição da imagem do cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header Logo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logo do Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header Logo Only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apenas a Logo no Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral do cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header Text Only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apenas o Texto no Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esconder detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image Upload #%1$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Upload de imagem #%1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import Demo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importar demo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install %2$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Required Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar os plugins necessários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installed But Not Activated</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalado mas não ativado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installed version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão instalada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing Plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando o plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing Plugin: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando o plugin: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and Activating Plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando e aticando o plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Light &amp; Dark Color skin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esquema de cores claras e escuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meta</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Meta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum required version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão mínima necessária:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Month: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mês: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Color Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções de múltiplas cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Need more features?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Precisa de mais funcionalidades?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Needs ThemeGrill Demo Importer plugin.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Requer o plugin ThemeGrill Demo Importer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Newer Comments &amp;rarr;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentários mais recentes &amp;rarr;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Newer posts &lt;span class="meta-nav"&gt;&amp;rarr;&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posts mais recentes &lt;span class="meta-nav"&gt;&amp;rarr;&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;raquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo &amp;raquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;rarr;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo &amp;rarr;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Sidebar Content Centered</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem barra lateral - conteúdo centralizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Sidebar Full Width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem barra lateral - tela inteira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No plugins are available to be activated at this time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No momento, nenhum plugin está disponível para ser ativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No plugins are available to be installed at this time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No momento, nenhum plugin está disponível para ser instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No plugins are available to be updated at this time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No momento, nenhum plugin está disponível para ser atualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No plugins to install, update or activate.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há plugins para instalar, atualizar ou ativar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Installed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One Column</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One thought on &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma ideia sobre &amp;ldquo;%2$s&amp;rdquo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO-Revision-Date: 2017-06-10 02:19:00+0000</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171124T171850Z" creationid="Sheila" creationdate="20171124T171850Z">
+        <seg>PO-Revision-Date: 2017-06-10 02:19:00+0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page NOT Found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página não encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pages:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Páginas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pingback:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pingback:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the administrator of this site for help.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entre em contato com o administrador do site para obter ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entre em contato com o provedor de plugin e peça a ela para compactar o plugin de acordo com as diretrizes do WordPress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please put it in our dedicated support forum.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escreva em nosso fórum exclusivo de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please send it via our sales contact page.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Envie através da nossa página de contato de vendas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please view our documentation page to setup the theme.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, veja a nossa página de documentação para configurar o tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin activated successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O plugin foi ativado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin activation failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A ativação do plugin falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polylang</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Polylang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polylang Compatible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compatível com Polylang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Position Above (Default): Display the Header image just above the site title and main menu part.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Position Above (Padrão): Mostrar a imagem de cabeçalho bem acima do título do site e do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Position Below: Display the Header image just below the site title and main menu part.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Position Below: Mostrar a imagem de cabeçalho bem abaixo do título do site e do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Post author</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor do post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Post navigation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegação do post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powered by %s.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Powered by %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-Packaged</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pré-embalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Color Option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opção de cor primária</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menu principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary color option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opção primária de cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quotes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Citações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rate this theme</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avalie este tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read more</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ler mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recommended</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recomendado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Featured image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover imagem destacada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resposta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Required</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Necessário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Required Update not Available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A atualização necessária não está disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Requer atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return to Dashboard &amp;rarr; Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar para Painel &amp;rarr; Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return to Required Plugins Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar para o Instalação de plugins necessários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return to Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar para atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return to the Dashboard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar para o Painel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Layout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Both</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar ambos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Image After Title</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar imagem depois do título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Image Before Title</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar imagem antes do título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at Left side.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir os Widgets no lado Esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at Right side.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir os Widgets no lado Direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at footer sidebar four.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets em footer sidebar four.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at footer sidebar one.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets em footer sidebar one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at footer sidebar three.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets em footer sidebar three.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets at footer sidebar two.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets em footer sidebar two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets in header section just above the main navigation menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets no cabeçalho, logo acima do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Business Page Template Bottom Section.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets na seção inferior do template da página business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Business Page Template Middle Section Left Half.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets na seção central esquerda do template da página business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Business Page Template Middle Section Right Half.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets na seção central direita do template da página business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Business Page Template Top Section.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets na seção superior do template da página business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Contact Page Template.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets em Contact Page Template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows widgets on Error 404 page.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar widgets na página de erro 404.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site Layout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layout do site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slider</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Slider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slider Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações do slider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slides type, duration &amp; delay time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de slides, duração e tempo de atraso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Social Icons</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícones sociais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Social Icons + Menu + Header text option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícones sociais + menu + opção de texto do cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong with the plugin API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aconteceu algo de errado com a API do plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spacious</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Spacious</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spacious Important Links</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Links importantes Spacious</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spacious Pro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Spacious Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adequado para Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Widget adequado: TG: Services, TG: Call To Action Widget, TG: Featured Widget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Suitable widget: TG: Testimonial, TG: Featured Single Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Widget adequado: TG: Testimonial, TG: Featured Single Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support Forum</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Forum de suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins suportados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Call To Action Widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Call To Action Widget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Call to Action widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Widget de chamada de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Featured Posts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Posts destacados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Featured Single page widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Widget de página destacada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Featured Widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Featured Widget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Featured widget (Recent Work/Portfolio)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Widget destacado (Trabalhos recentes/Portfolio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Our Clients</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Nossos clientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Services</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Services widget</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Widget de serviços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TG: Testimonial</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TG: Testimonial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TGMPA v%s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TGMPA v%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagged on:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classificado como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testimonial Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição do testemunho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following plugin was activated successfully:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O seguinte plugin foi ativado com sucesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The installation of %1$s failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação de %1$s falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote plugin package consists of more than one file, but the files are not packaged in a folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote de plugin remoto consiste em mais de um arquivo, mas os arquivos não estão guardados em uma pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote plugin package does not contain a folder with the desired slug and renaming did not work.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote do plugin não contém uma pasta com o slug desejado de modo que renomear não funcionou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme Customizer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizador de tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme Info</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informações do tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme: %1$s by %2$s.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tema: %1$s por %2$s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ThemeGrill</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ThemeGrill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are one or more required or recommended plugins to install, update or activate.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem um ou mais plugin recomendados ou necessários serem instalados, faça a atualização ou ativação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This plugin needs to be updated to be compatible with your theme.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esse plugin precisa ser atualizado para se tornar compatível com seu tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This theme recommends following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este tema recomenda os seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Activate &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para ativar &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Install &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para instalar &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Traduzir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Ready</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pronto para tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlimited Slides</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Slides ilimitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update %2$s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update Available &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização disponível &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update Required</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização necessária</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update recommended</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização recomendada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating Plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando o plugin %1$s (%2$d/%3$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating Plugin: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando o plugin: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrade message from the plugin author:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem de atualização do autor do plugin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrade to PRO version for more exciting features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faça o upgrade para a versão PRO e tenha funcionalidades incríveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload favicon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazer o Upload do Favicon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload favicon for your site.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Envie o favicon para o seu site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload slider image.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Envie a imagem do slider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this widget to show the call to action section.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse widget para mostrar a seção de call to action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vídeos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Demo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ver demonstração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View PRO version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conheça a versão Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Pro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ver Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View changelog below:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja o log de alterações abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WP-PageNavi</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WP-PageNavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WPML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WPML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WPML Compatible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compatível com WPML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wide layout with content width of 1218px</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Wide layout com largura de conteúdo de 1218px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wide layout with content width of 978px</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Wide layout com largura de conteúdo de 978px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WooCommerce</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WooCommerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Woocommerce Compatible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compatível com Woocommerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Woocommerce Page Layouts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Layouts para Woocommerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordPress Repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Repositório do WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Write your Custom CSS.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escreva seu próprio css.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Year: %s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ano: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your comment is awaiting moderation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O seu comentário aguarda moderação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>by ThemeGrill</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>por ThemeGrill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://themegrill.com</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>https://themegrill.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://themegrill.com/themes/spacious</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>https://themegrill.com/themes/spacious</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>desconhecido</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">wp-themes-spacious-pt-br.po</prop>
+      <prop type="path">[1]</prop>
+      <tuv lang="EN">
+        <seg>Update Available &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizações disponíveis &lt;span class="count"&gt;(%s)&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

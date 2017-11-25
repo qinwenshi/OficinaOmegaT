@@ -1,0 +1,38 @@
+﻿https://wordpress.org/news/2017/09/global-wordpress-translation-day-3/
+
+Global WordPress Translation Day 3
+
+Posted September 27, 2017 by Hugh Lashbrooke. Filed under Events.
+On September 30 2017, the WordPress Polyglots Team – whose mission is to translate WordPress into as many languages as possible – will hold its third Global WordPress Translation Day, a 24-hour, round-the-clock, digital and physical global marathon dedicated to the localisation and internationalisation of the WordPress platform and ecosystem, a structure that powers, today, over 28% of all existing websites.
+
+The localisation process allows for WordPress and for all WordPress-related products (themes and plugins) to be available in local languages, so to improve their accessibility and usage and to allow as many people as possible to take advantage of the free platform and services available.
+
+In a (not completely) serendipitous coincidence, September 30 has also been declared by the United Nations “International Translation Day”, to pay homage to the great services of translators everywhere, one that allows communication and exchange.
+
+The event will feature a series of multi-language live speeches (training sessions, tutorials, case histories, etc.) that will be screen-casted in streaming, starting from Australia and the Far East and ending in the Western parts of the United States.
+
+In that same 24-hour time frame, Polyglots worldwide will gather physically in local events, for dedicated training and translations sprints (and for some fun and socializing as well), while those unable to physically join their teams will do so remotely.
+
+A big, fun, useful and enlightening party and a lovely mix of growing, giving, learning and teaching, to empower, and cultivate, and shine.
+
+Here are some stats about the first two events:
+
+Global WordPress Translation Day 1
+
+  448 translators worldwide
+  50 local events worldwide
+  54 locales involved
+  40350 strings translated, in
+  597 projects
+Global WordPress Translation Day 2
+
+  780 translators worldwide
+  67 local events worldwide
+  133 locales involved
+  60426 strings translated, in
+  590 projects
+We would like your help in spreading this news and in reaching out to all four corners of the world to make the third #WPTranslationDay a truly amazing one and to help celebrate the unique and fundamental role that translators have in the Community but also in all aspects of life.
+
+A full press release is available, along with more information and visual assets at wptranslationday.org/press.
+
+For any additional information please don’t hesitate to contact the event team on press@wptranslationday.org.

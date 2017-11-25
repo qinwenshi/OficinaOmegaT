@@ -1,0 +1,9 @@
+﻿Computer-assisted translation, computer-aided translation or CAT is a form of language translation in which a human translator uses computer software to support and facilitate the translation process.
+
+Computer-assisted translation is sometimes called machine-assisted, or machine-aided, translation (not to be confused with machine translation).
+
+Overview
+
+The automatic machine translation systems available today are not able to produce high-quality translations unaided: their output must be edited by a human to correct errors and improve the quality of translation. Computer-assisted translation (CAT) incorporates that manual editing stage into the software, making translation an interactive process between human and computer.[1]
+
+Some advanced computer-assisted translation solutions include controlled machine translation (MT). Higher priced MT modules generally provide a more complex set of tools available to the translator, which may include terminology management features and various other linguistic tools and utilities. Carefully customized user dictionaries based on correct terminology significantly improve the accuracy of MT, and as a result, aim at increasing the efficiency of the entire translation process.

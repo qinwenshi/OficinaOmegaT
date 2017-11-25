@@ -1,0 +1,15 @@
+﻿All installations have been completed.
+
+%1$s installed successfully.
+
+The installation process is starting.
+
+This process may take a while on some hosts, so please be patient.
+
+Installing and Activating Plugin %1$s (%2$d/%3$d)
+
+All installations and activations have been completed.
+
+Hide Details
+
+Show Details

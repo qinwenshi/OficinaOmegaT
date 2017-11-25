@@ -1,0 +1,109 @@
+﻿https://medium.com/@sheilagomes/voc%C3%AA-e-eu-como-pontos-de-dados-b6270029144e
+
+Você e eu como pontos de dados
+Sheila Gomes
+(Texto original de Lam Thuy Vo, traduzido por mim com autorização da autora)
+
+Ideias sobre o uso de dados pessoais para narração de histórias segundo a apresentação pública feita no Dia Interativo do Instituto de Filmes de Tribeca no dia 18 de abril de 2015.
+
+Dados. Só se fala deles. Bom, pelo menos é o que parece no mercado de trabalho, em relatórios nos meios de comunicação e em muitas, muitas empresas.
+
+Parte disso acontece porque há muitos dados por aí agora, e o armazenamento digital está incrivelmente barato. Imagine só: em 1957, a IBM lançou um computador com 5 Mb de armazenamento disponível, que equivalia a aproximadamente 1 milhão de dólares.
+Computador da IBM
+
+Agora, esse mesmo armazenamento custa aproximadamente 0,0005 centavos de dólar. Isto levou a uma explosão de armazenamento de dados e consequentemente, a uma abundância de dados.
+
+E eles estão sendo usados de todas as formas possíveis. Empresas gigantescas usam dados para vender produtos a vocês. Delegacias agora estão prevendo crimes usando dados. Departamentos de saúde podem oferecer cuidados melhores de acordo com estatísticas.
+
+Mas ainda que haja muitos usos práticos para esta superabundância de informações, pode ser muito, mas muito difícil empolgar as pessoas aqui nesta plateia – vocês, adoráveis contadores de histórias, artistas e diretores de filmes – com números. Ou planilhas. Ou dados.
+
+Eu entendo perfeitamente. Dados parecem terrivelmente áridos. Carecem de humanidade, personagens, emoções. Ou pelo menos assim parece.
+
+Mas quero que você comece a pensar em dados de outras formas. Um amigo próximo explicou dados para mim de um jeito espetacular. E aqui está: em algum nível, os dados são o resultado de alguém que faz perguntas muitas e muitas vezes, e que acaba falando com várias pessoas. Então, se você pensar nisso, os dados representam uma parte fundamental da narração de histórias de não-ficção: a entrevista.
+
+Conheço muitos diretores de filmes e jornalistas que contam belas histórias mas têm uma baita aversão a dados. Eu já fui um deles! Nos primeiros anos na minha carreira, eu só fazia vídeos e achava que encontrar e seguir personagens era tudo o que eu precisava fazer para ter uma boa história. Mas há uma coisa que eu quero que vocês percebam com a leitura deste artigo: que há seres humanos por trás de muitos destes conjuntos de dados áridos e que, uma vez que reconheça isso, você pode minerar dados de histórias plenas de emoção, empatia e potencial de identificação.
+
+Vamos começar assim: pense no ponto de dados.
+
+Se você pensar em dados como entrevistas feitas com indivíduos em uma escala imensa, talvez comece a ver cada linha como um ser humano. Com certeza, uma vez que todas estas entrevistas sejam inseridas em programas estatísticos, podem mesmo virar fatos frios. Mas na sua forma mais crua, cada linha em um conjunto de dados pode representar um indivíduo que respondeu um certo número de perguntas.
+
+E assim, este ponto de dados específico pode representar você… Ou, considerando esta apresentação, eu mesma!
+Lam, o ponto de dados
+
+No ano passado, nesta época, era assim que eu pensava sobre mim mesma. Como um ponto de dados, para enfrentar um coração partido.
+
+No dia 19 de março de 2014, eu me tornei uma das 147.451 pessoas divorciadas no Brooklyn.
+
+Naquele dia passei de legalmente casada a legalmente divorciada. Ouvi esta notícia do meu advogado.
+
+Duas linhas brutais: “você está divorciada. Enviado do meu iPhone”
+
+E enquanto pensava nesta notícia me senti sozinha. Presa nas palavras que o bendito iPhone do meu advogado tinha me enviado.
+
+Mas então investiguei alguns dados relacionados a divórcio – isso deve dizer muito de mim – e bastou ver quantos divorciados estavam na mesma situação que eu para me sentir menos sozinha.
+
+E este é o gráfico que fiz destes dados. Começa naquele pontinho mínimo ali, que me representa. e cada ponto representa outro divorciado no Brooklyn
+
+Na verdade este foi um dos muitos gráficos que eu fiz para processar o meu divórcio. Nas profundezas da minha depressão – e nas alturas do meu consumo de sorvete – um amigo sugeriu que eu fizesse gráficos sobre o meu divórcio. Então comecei um blog chamado separação quantificada.
+
+Foi surpreendente perceber o número de emoções que eu podia minerar dos dados. Claro que mesmo assim, você ainda tem que tratar os seus conjuntos de dados com as metodologias de um cientista. Mas para liberar o potencial emocional dos dados, basta fazer as perguntas certas a partir dessas planilhas. E sim, se você quiser mesmo, é possível encontrar um lado humano nos dados.
+
+Pense em como somos tolos depois de uma separação. Em como nos deixamos levar pela vontade de fazer aquelas coisas que estamos sempre querendo fazer. Como comprar coisas de que não precisamos!
+
+Este gráfico, por exemplo, representa três meses de compraterapia. As coisas que comprei foram qualificadas em uma escala de 1 para 10, do absolutamente inútil ao inacreditavelmente útil.
+Dados de PDFs dos meus extratos bancários
+
+Em outro gráfico, investiguei a ansiedade que você sente quando está em um apartamento que costumava compartilhar com alguém. Lembra do Forrest Gump? Em uma parte da história, Jenny vem ficar com ele, os dois se apaixonam e ela meio que desaparece um dia. Esta é a parte do filme quando ele sai do apartamento e só corre, porque é um saco ficar para trás em um lugar cheio de memórias.
+Jenny se foi. Forrest está triste.
+
+Bom, essa sou eu dando um passeio de bicicleta aleatório por Chinatown quando canalizava meu Forrest interno.
+Movimento para combater a ansiedade
+
+Também há o processo de apaixonar-se por alguém. Se você minerar todas as mensagens do seu telefone enviadas para alguém que você estava tentando namorar, poderá encontrar um certo padrão.
+
+Houve uma fase em que tentei marcar encontros on-line. Alguém aqui já tentou? É um saco. É seco. E a maior parte das conversas pelo telefone se esgotam rapidamente.
+
+Aqui está uma lista de mensagens de texto que troquei com potenciais candidatos. Muitos caras chatos… mas mesmo assim… foram 1.249 mensagens de texto!
+Número de mensagens de texto trocadas com contatos on-line diferentes
+
+Todas foram trocadas dentro de apenas 4 semanas. Vamos ver como é esse gráfico de verdade.
+Um gif do gráfico de transmissões de mensagens de texto
+
+Bem divertido, hein?
+
+Usei um software de espião para baixar dados do meu telefone, encontrei formas de extrair dados das minhas contas de mídias sociais e até fui à minha academia para conseguir um conjunto de dados impresso do resumo dos meus exercícios físicos. Os dados não são vazios de natureza humana. Pelo contrário. Havia um ser humano atuante, que respirava, com uma personalidade e uma história por trás deste gráfico: eu. E se você lembrar de que seres humanos muitas vezes estão por trás de conjuntos de dados, pode investigar estes dados para buscar histórias e provavelmente encontrar algumas informações ilustrativas sobre estes indivíduos.
+
+Bom, não são apenas emoções que podemos explorar com estes dados, naquilo que alguns chamam de o “ser quantificado”. E se pudéssemos criar empatia com uma história de dados?
+
+Bom, durante o dia (quando não estou fazendo diagramas sobre as minhas aflições emocionais), eu trabalho na Al Jazeera America, onde conto histórias sobre pobreza usando gráficos, vídeos, fotos e palavras. Parte do meu trabalho é compartilhar com você nossos sentimentos e ajudar a entender as vidas das pessoas pobres. Para uma história, queríamos destacar como as pessoas viviam com um orçamento super apertado. Então, como mostrar que é ruim quando não há dinheiro suficiente para se ter um carro, e a pessoa precisa ir trabalhar de ônibus?
+
+Assim.
+
+Acompanhamos uma babá cuja viagem diária ao trabalho é de 2 horas para ir e outras 2 para voltar: são 4 horas diárias de transporte. Esta mesma viagem levaria 18 minutos se ela tivesse condições de ter um carro. 65 pontos de ônibus, cerca de 15 minutos de caminhada e uma mudança de ônibus ao invés de entrar em um carro e dirigir por 20 minutos.
+
+Este “selfie quantificado” faz um trabalho muito melhor do que as minhas palavras para descrever como é ruim não poder ter um carro.
+Talvez pudéssemos até ir um passo além disso. E se usarmos dados pessoais para construir a história que cada espectador verá? Vou contar para vocês como fazer histórias personalizadas para cada espectador. Estas histórias tornam a identificação extraordinariamente fácil porque foram construídas especificamente para cada um.
+
+Na televisão e no cinema há uma relação relativamente unilateral entre o público e o ator. O ator cria e o público experimenta coletivamente a mesma história.
+
+Assim, duas pessoas que se encontraram em uma hackathon POV e eu criamos uma plataforma que nos permite integrar perfeitamente em um vídeo informações atualizadas recolhidas na Internet. Ela também permite que as informações expostas no vídeo sejam personalizadas de acordo com um espectador específico.
+Como o Data Docs funciona
+
+Isto é tudo muito abstrato, então vou mostrar um exemplo.
+
+Produzimos este vídeo para investigar a influência do dinheiro na política. Lendo o resumo, esta história significa pouco para as pessoas. Mas o que queríamos fazer era relacioná-la à pessoa que assistiria ao vídeo.
+Uma demonstração do vídeo
+
+Com um único ponto de dados – sua geolocalização – e os dados de várias outras fontes é possível fazer cada espectador se identificar com este tópico abstrato de dinheiro na política.
+
+É muito poderoso. Porque precisamos levar em conta que somos cada vez mais inundados por informação e temos um tempo de atenção cada vez mais curto. O que isto significa: como consumidores, na maior parte do tempo, nos preocupamos conosco, com nossos entes queridos e com nossos próprios interesses. Para arrancar alguém de sua falta da empatia, podemos usar dados para personalizar histórias. Publicitários e políticos já fazem isto. Vamos fazer a mesma coisa como contadores de histórias.
+
+Além do mais, estes dados já estão sendo produzidos. Em vez de registrar meus gastos, em vez de anotar com que frequência enviei uma mensagem de texto a uma pessoa específica, e em vez de registrar cada curtida no Facebook e cada post no Twitter que fiz, posso encontrar esses dados quase sem esforço, em qualquer dispositivo, aplicativo e site.
+
+Cada vez que alguém usa um aplicativo ou serviço web como Seamless ou Uber ou PayPal, permite a uma empresa privada acessar seus dados pessoais. Sempre que entra em um serviço com sua conta de Twitter ou Facebook, você dá a terceiros acesso aos seus dados por um programa chamado API.
+
+E se coletássemos esses dados para personalizar o conteúdo de acordo com o comportamento on-line da pessoa? E se brincássemos com a forma de contar a história segundo as suas informações?
+
+Resumindo, para deixar claro: dados não são apenas uma fonte de informações e um resumo secos. Eles podem ser uma forma de explorar histórias humanas e emocionais, criar empatia e identificação.
+
+E convenhamos… não é exatamente por isso que tentamos fazer documentários em primeiro lugar?

@@ -1,0 +1,38 @@
+﻿https://br.wordpress.org/2017/09/29/global-wordpress-translation-day-3/
+
+Global WordPress Translation Day 3 - PT
+
+Publicado em 29 de setembro de 2017 por sheilagomes. Arquivado em Geral.
+No dia 30 de setembro de 2017, a equipe Polyglots do WordPress, cuja missão é traduzir o WordPress para quantos idiomas puder, realizará sua terceira edição do Global WordPress Translation Day, uma maratona global de 24 horas, digital e física, dedicada à localização e à internacionalização da plataforma e do ecossistema do WordPress, uma estrutura que hoje baseia mais de 28% de todos os sites existentes.
+
+O processo de localização permite que o WordPress e tudo relacionado a ele (temas e plugins) esteja disponível nos idiomas locais, para melhorar seu uso e acessibilidade, além de permitir que cada vez mais pessoas aproveitem a plataforma livre e os serviços disponíveis.
+
+Por (quase) mera coincidência, o dia 30 de setembro também foi declarado pelas Nações Unidas o “Dia Internacional da Tradução”, para homenagear os grandes serviços de tradutores no mundo inteiro, que possibilitam a comunicação e o intercâmbio.
+
+O evento contará com uma série de palestras multilíngues ao vivo (sessões de formação, tutoriais, histórias de casos de uso, etc.) transmitidas por vídeo em tempo real, começando na Austrália e no Extremo Oriente e terminando no oeste dos Estados Unidos.
+
+Dentro desse mesmo período de 24 horas, membros do Polyglots do mundo todo se reunirão fisicamente em eventos locais, para sessões dedicadas à formação e à tradução (além de diversão e socialização também). No Brasil haverá eventos do WordPress em Curitiba, Florianópolis e São Paulo. Quem não puder participar fisicamente fará o mesmo remotamente.
+
+Será uma grande festa, divertida, útil e esclarecedora, aliada a uma bela mistura de crescimento, doação, aprendizado e ensino, para capacitar, cultivar e abrilhantar a comunidade.
+
+Aqui estão algumas estatísticas sobre os primeiros dois eventos:
+
+Global WordPress Translation Day 1
+
+448 tradutores no mundo todo
+50 eventos locais no mundo todo
+54 localidades envolvidas
+40.350 strings traduzidas, em
+597 projetos
+Global WordPress Translation Day 2
+
+780 tradutores no mundo todo
+67 eventos locais no mundo todo
+133 localidades envolvidas
+60.426 strings traduzidas, em
+590 projetos
+Queremos contar com a sua ajuda para divulgar esta notícia, alcançar os quatro cantos do mundo e fazer do terceiro #WPTranslationDay um evento incrível, além de ajudar a celebrar a função inigualável e fundamental dos tradutores não só na nossa Comunidade, mas também em todos os aspectos da vida.
+
+Um comunicado à imprensa completo está disponível em inglês, junto com mais informações e recursos visuais no site wptranslationday.org/press.
+
+Fique à vontade para pedir informações adicionais à equipe do evento pelo e-mail press@wptranslationday.org.

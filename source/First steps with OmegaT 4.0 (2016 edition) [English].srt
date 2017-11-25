@@ -1,0 +1,900 @@
+1
+00:00:00,000 --> 00:00:04,047
+in this video<font color="#CCCCCC"> I will</font><font color="#E5E5E5"> show you how to</font>
+
+2
+00:00:02,001 --> 00:00:07,280
+translate<font color="#CCCCCC"> the small word document using</font>
+
+3
+00:00:04,047 --> 00:00:09,108
+<font color="#CCCCCC">Omega T version for the document we want</font>
+
+4
+00:00:07,379 --> 00:00:12,392
+to translate is this one it's<font color="#E5E5E5"> in finish</font>
+
+5
+00:00:10,008 --> 00:00:14,061
+and we<font color="#E5E5E5"> will translate it into English</font>
+
+6
+00:00:12,509 --> 00:00:17,400
+for that we will be able to use some
+
+7
+00:00:14,061 --> 00:00:19,152
+<font color="#E5E5E5">sample energy supplied in the form of an</font>
+
+8
+00:00:17,004 --> 00:00:22,883
+excel sheet<font color="#CCCCCC"> it has two columns</font><font color="#E5E5E5"> one for</font>
+
+9
+00:00:20,052 --> 00:00:23,148
+<font color="#E5E5E5">finished</font><font color="#CCCCCC"> ribs and the other</font><font color="#E5E5E5"> one for</font>
+
+10
+00:00:23,279 --> 00:00:26,160
+<font color="#E5E5E5">english terms</font>
+
+11
+00:00:24,048 --> 00:00:28,607
+finally we have the reference
+
+12
+00:00:26,016 --> 00:00:31,065
+<font color="#E5E5E5">translation memory available in the</font><font color="#CCCCCC"> TMX</font>
+
+13
+00:00:29,039 --> 00:00:34,410
+<font color="#E5E5E5">format and we would be able to add that</font>
+
+14
+00:00:31,065 --> 00:00:36,132
+<font color="#CCCCCC">translation memory to our</font><font color="#E5E5E5"> Omega T</font>
+
+15
+00:00:34,041 --> 00:00:39,710
+project<font color="#E5E5E5"> so let's switch to Omega T Omega</font>
+
+16
+00:00:37,032 --> 00:00:42,105
+T is<font color="#CCCCCC"> a java-based</font><font color="#E5E5E5"> application so it's</font>
+
+17
+00:00:40,079 --> 00:00:44,670
+available for<font color="#E5E5E5"> Windows Mac and Linux</font><font color="#CCCCCC"> here</font>
+
+18
+00:00:43,005 --> 00:00:47,354
+we are using the latest version
+
+19
+00:00:44,067 --> 00:00:49,796
+available for<font color="#CCCCCC"> windows</font><font color="#E5E5E5"> at this time which</font>
+
+20
+00:00:47,399 --> 00:00:53,670
+is<font color="#CCCCCC"> 4.4</font><font color="#E5E5E5"> . when we will create a new</font>
+
+21
+00:00:50,399 --> 00:00:56,250
+project so<font color="#E5E5E5"> for that a select project</font><font color="#CCCCCC"> new</font>
+
+22
+00:00:53,067 --> 00:00:57,141
+<font color="#CCCCCC">and Omega T</font><font color="#E5E5E5"> project is stored in the</font>
+
+23
+00:00:56,025 --> 00:01:00,093
+folder so<font color="#E5E5E5"> i will create a specific</font>
+
+24
+00:00:58,041 --> 00:01:06,126
+folder for my project that i will call
+
+25
+00:01:00,093 --> 00:01:08,178
+<font color="#CCCCCC">showing top</font><font color="#E5E5E5"> if I en and save</font><font color="#CCCCCC"> Omega T</font>
+
+26
+00:01:07,026 --> 00:01:12,081
+remembered the language<font color="#E5E5E5"> is our last used</font>
+
+27
+00:01:09,078 --> 00:01:15,081
+so the source language is<font color="#CCCCCC"> finish</font><font color="#E5E5E5"> and</font>
+
+28
+00:01:12,081 --> 00:01:17,178
+target<font color="#CCCCCC"> languages British English Omega T</font>
+
+29
+00:01:15,081 --> 00:01:20,145
+also created a number of sub folders
+
+30
+00:01:18,078 --> 00:01:23,079
+under my project folder<font color="#E5E5E5"> there's</font><font color="#CCCCCC"> 14</font>
+
+31
+00:01:21,045 --> 00:01:25,140
+source documents<font color="#CCCCCC"> when for translation</font>
+
+32
+00:01:23,088 --> 00:01:28,164
+memories<font color="#E5E5E5"> went for</font><font color="#CCCCCC"> glossary</font><font color="#E5E5E5"> and so on</font>
+
+33
+00:01:26,004 --> 00:01:31,793
+<font color="#E5E5E5">click on</font><font color="#CCCCCC"> OK now</font><font color="#E5E5E5"> since</font><font color="#CCCCCC"> i haven't selected</font>
+
+34
+00:01:29,064 --> 00:01:33,156
+any<font color="#CCCCCC"> translatable document yet</font><font color="#E5E5E5"> that will</font>
+
+35
+00:01:32,189 --> 00:01:37,740
+do it now so<font color="#CCCCCC"> i click on copy files</font><font color="#E5E5E5"> to</font>
+
+36
+00:01:34,056 --> 00:01:40,056
+<font color="#CCCCCC">source folder and i will point to the</font>
+
+37
+00:01:37,074 --> 00:01:42,075
+<font color="#E5E5E5">Omega T folder which is on my desktop</font>
+
+38
+00:01:40,056 --> 00:01:46,685
+and this is the word document<font color="#CCCCCC"> i want to</font>
+
+39
+00:01:42,084 --> 00:01:49,125
+translate<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> close the screen before</font><font color="#CCCCCC"> i</font>
+
+40
+00:01:47,189 --> 00:01:53,070
+continue<font color="#CCCCCC"> i'll also open in</font><font color="#E5E5E5"> windows</font>
+
+41
+00:01:50,025 --> 00:01:56,034
+<font color="#E5E5E5">explorer my</font><font color="#CCCCCC"> Omega T</font><font color="#E5E5E5"> folder so it's</font>
+
+42
+00:01:53,007 --> 00:02:00,416
+located<font color="#E5E5E5"> here and project</font><font color="#CCCCCC"> four days this</font>
+
+43
+00:01:56,034 --> 00:02:04,128
+<font color="#CCCCCC">one</font><font color="#E5E5E5"> and here I'll open the</font><font color="#CCCCCC"> team folder</font>
+
+44
+00:02:00,479 --> 00:02:07,496
+<font color="#E5E5E5">and this is where i will copy the TMX</font>
+
+45
+00:02:05,028 --> 00:02:09,120
+<font color="#CCCCCC">processor</font><font color="#E5E5E5"> memory that</font><font color="#CCCCCC"> i mentioned</font>
+
+46
+00:02:07,649 --> 00:02:12,450
+earlier so<font color="#CCCCCC"> I will drag</font><font color="#E5E5E5"> and drop it here</font>
+
+47
+00:02:10,002 --> 00:02:15,036
+and<font color="#CCCCCC"> I'm done</font><font color="#E5E5E5"> next</font>
+
+48
+00:02:12,045 --> 00:02:17,834
+<font color="#E5E5E5">first I have a glossary folder and this</font>
+
+49
+00:02:15,054 --> 00:02:21,066
+is where<font color="#CCCCCC"> Omega T expects its time energy</font>
+
+50
+00:02:18,239 --> 00:02:25,890
+to be stored in so<font color="#CCCCCC"> I'll go back to XM</font>
+
+51
+00:02:21,066 --> 00:02:29,154
+and here since<font color="#CCCCCC"> Omega T cannot use Excel</font>
+
+52
+00:02:25,089 --> 00:02:32,094
+directly<font color="#CCCCCC"> i will save this five</font><font color="#E5E5E5"> save as</font>
+
+53
+00:02:30,054 --> 00:02:35,003
+and<font color="#CCCCCC"> i will select as the file type</font>
+
+54
+00:02:32,094 --> 00:02:37,173
+<font color="#CCCCCC">unicode text so</font><font color="#E5E5E5"> i will get a</font>
+
+55
+00:02:35,489 --> 00:02:41,340
+tab-delimited file<font color="#CCCCCC"> or</font><font color="#E5E5E5"> make it expects</font>
+
+56
+00:02:38,073 --> 00:02:43,116
+that<font color="#CCCCCC"> five to be called glossary so and</font>
+
+57
+00:02:41,034 --> 00:02:48,090
+change the name to<font color="#E5E5E5"> grocery and</font><font color="#CCCCCC"> I have to</font>
+
+58
+00:02:44,016 --> 00:02:51,065
+store it in my<font color="#CCCCCC"> Omega T order and mysore</font>
+
+59
+00:02:48,009 --> 00:02:53,708
+<font color="#E5E5E5">dog project folder and the glossary</font>
+
+60
+00:02:51,209 --> 00:02:57,780
+<font color="#E5E5E5">subfolder here now can close this</font><font color="#CCCCCC"> five</font>
+
+61
+00:02:54,599 --> 00:03:00,030
+and i have my<font color="#E5E5E5"> glossary file in the</font>
+
+62
+00:02:57,078 --> 00:03:01,113
+<font color="#E5E5E5">grocery order so now</font><font color="#CCCCCC"> I'm ready for</font><font color="#E5E5E5"> the</font>
+
+63
+00:03:00,003 --> 00:03:05,064
+translation<font color="#CCCCCC"> the first translatable</font>
+
+64
+00:03:02,013 --> 00:03:08,079
+segment is put in bold<font color="#E5E5E5"> by</font><font color="#CCCCCC"> Omega T and</font>
+
+65
+00:03:05,064 --> 00:03:11,109
+it's worth<font color="#CCCCCC"> for highlighted in green by</font>
+
+66
+00:03:08,079 --> 00:03:14,088
+default<font color="#CCCCCC"> Omega T complicates</font><font color="#E5E5E5"> the short</font>
+
+67
+00:03:12,009 --> 00:03:17,558
+<font color="#CCCCCC">segments into the target segment</font><font color="#E5E5E5"> since I</font>
+
+68
+00:03:14,088 --> 00:03:20,184
+don't want this default<font color="#E5E5E5"> behavior</font><font color="#CCCCCC"> i'll go</font>
+
+69
+00:03:17,639 --> 00:03:24,677
+<font color="#E5E5E5">to options and editor and here instead</font>
+
+70
+00:03:21,084 --> 00:03:26,163
+of the source<font color="#CCCCCC"> text i'll select</font><font color="#E5E5E5"> leave the</font>
+
+71
+00:03:25,019 --> 00:03:30,038
+<font color="#E5E5E5">segment empty so from now the target</font>
+
+72
+00:03:27,063 --> 00:03:32,106
+segment<font color="#E5E5E5"> will be left empty now</font><font color="#CCCCCC"> i can</font>
+
+73
+00:03:30,209 --> 00:03:35,790
+delete the content of the target<font color="#CCCCCC"> segment</font>
+
+74
+00:03:33,006 --> 00:03:38,079
+and<font color="#CCCCCC"> I can enter my own translation so</font>
+
+75
+00:03:35,079 --> 00:03:40,137
+<font color="#E5E5E5">nine passes</font><font color="#CCCCCC"> Alcorn</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> English</font><font color="#E5E5E5"> it's</font>
+
+76
+00:03:38,079 --> 00:03:44,094
+<font color="#E5E5E5">getting started when my segment is ready</font>
+
+77
+00:03:41,037 --> 00:03:46,110
+and<font color="#CCCCCC"> I can move to the next 1i can use</font>
+
+78
+00:03:44,094 --> 00:03:48,123
+the<font color="#CCCCCC"> go to next</font>
+
+79
+00:03:47,001 --> 00:03:53,013
+untranslatable<font color="#CCCCCC"> segment</font><font color="#E5E5E5"> common its</font>
+
+80
+00:03:49,023 --> 00:03:56,372
+<font color="#CCCCCC">cultural</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> so now my second segment is</font>
+
+81
+00:03:53,022 --> 00:03:59,091
+empty<font color="#CCCCCC"> i can see in the grocery pain on</font>
+
+82
+00:03:56,579 --> 00:04:03,420
+the lower right part of the<font color="#E5E5E5"> Omega T</font>
+
+83
+00:03:59,091 --> 00:04:05,109
+window that<font color="#CCCCCC"> i have</font><font color="#E5E5E5"> two terms that</font><font color="#CCCCCC"> we're</font>
+
+84
+00:04:03,042 --> 00:04:08,111
+<font color="#CCCCCC">recognized by Nick a button and Valley</font>
+
+85
+00:04:06,009 --> 00:04:10,688
+<font color="#CCCCCC">core menu this terms were recognized</font>
+
+86
+00:04:08,489 --> 00:04:13,440
+although they do not occur in exactly
+
+87
+00:04:10,769 --> 00:04:15,794
+the same<font color="#E5E5E5"> form in my source segments</font><font color="#CCCCCC"> or</font>
+
+88
+00:04:13,044 --> 00:04:17,843
+<font color="#CCCCCC">communicate</font><font color="#E5E5E5"> its</font><font color="#CCCCCC"> nominative floor or</font><font color="#E5E5E5"> a</font>
+
+89
+00:04:16,019 --> 00:04:21,450
+<font color="#CCCCCC">spiny case nominative singular and same</font>
+
+90
+00:04:18,239 --> 00:04:23,940
+with<font color="#CCCCCC"> Valley</font><font color="#E5E5E5"> good in order to enter these</font>
+
+91
+00:04:21,045 --> 00:04:25,084
+<font color="#CCCCCC">recognize</font><font color="#E5E5E5"> terms</font><font color="#CCCCCC"> i</font><font color="#E5E5E5"> can use the</font>
+
+92
+00:04:23,094 --> 00:04:27,106
+<font color="#E5E5E5">autocomplete comments</font><font color="#CCCCCC"> okay</font>
+
+93
+00:04:25,084 --> 00:04:30,085
+press<font color="#E5E5E5"> ctrl space and the glossary</font>
+
+94
+00:04:28,006 --> 00:04:33,028
+entries will be on display here so the
+
+95
+00:04:30,094 --> 00:04:35,176
+first one is<font color="#E5E5E5"> button</font><font color="#CCCCCC"> I can</font><font color="#E5E5E5"> accept it and</font>
+
+96
+00:04:33,028 --> 00:04:39,082
+put<font color="#E5E5E5"> it in</font><font color="#CCCCCC"> Quran and yeah initiates and</font>
+
+97
+00:04:36,076 --> 00:04:42,127
+for the third<font color="#E5E5E5"> word i can again</font><font color="#CCCCCC"> price</font>
+
+98
+00:04:39,082 --> 00:04:43,087
+control space and<font color="#CCCCCC"> i can select menu and</font>
+
+99
+00:04:43,027 --> 00:04:47,050
+press<font color="#CCCCCC"> enter</font>
+
+100
+00:04:44,032 --> 00:04:50,041
+<font color="#CCCCCC">I put it in Quran and I can capitalize</font>
+
+101
+00:04:47,005 --> 00:04:52,021
+the first word<font color="#E5E5E5"> now</font><font color="#CCCCCC"> I'm radio can press</font>
+
+102
+00:04:50,041 --> 00:04:56,041
+<font color="#CCCCCC">ctrl</font><font color="#E5E5E5"> you to move to the next segment</font>
+
+103
+00:04:52,066 --> 00:04:57,157
+<font color="#CCCCCC">this is a long segment that has also won</font>
+
+104
+00:04:56,041 --> 00:04:58,860
+<font color="#CCCCCC">recognized</font><font color="#E5E5E5"> him in the same that we had</font>
+
+105
+00:04:58,057 --> 00:05:01,129
+before
+
+106
+00:04:59,229 --> 00:05:04,330
+<font color="#CCCCCC">IDK button but</font><font color="#E5E5E5"> this time it's finally</font>
+
+107
+00:05:02,029 --> 00:05:06,034
+get that so it's the positive<font color="#CCCCCC"> singular</font>
+
+108
+00:05:04,033 --> 00:05:09,076
+<font color="#E5E5E5">but yet it was recognized</font><font color="#CCCCCC"> by</font><font color="#E5E5E5"> quickly</font>
+
+109
+00:05:06,079 --> 00:05:11,083
+enter my translation and<font color="#CCCCCC"> I can move to</font>
+
+110
+00:05:09,076 --> 00:05:14,985
+the next segment with<font color="#CCCCCC"> controller</font><font color="#E5E5E5"> you</font>
+
+111
+00:05:11,083 --> 00:05:17,122
+here again<font color="#CCCCCC"> i have</font><font color="#E5E5E5"> to recognize terms by</font>
+
+112
+00:05:15,669 --> 00:05:20,766
+now<font color="#E5E5E5"> price</font><font color="#CCCCCC"> to $MONEY and a</font><font color="#E5E5E5"> lot of</font><font color="#CCCCCC"> alico</font>
+
+113
+00:05:18,022 --> 00:05:25,063
+<font color="#CCCCCC">start</font><font color="#E5E5E5"> menu so</font><font color="#CCCCCC"> i can insert them with</font>
+
+114
+00:05:21,639 --> 00:05:29,110
+<font color="#E5E5E5">again control space</font><font color="#CCCCCC"> so the</font><font color="#E5E5E5"> first one and</font>
+
+115
+00:05:25,063 --> 00:05:32,137
+my<font color="#CCCCCC"> conversation and</font><font color="#E5E5E5"> electrical</font><font color="#CCCCCC"> waves</font>
+
+116
+00:05:29,011 --> 00:05:35,044
+<font color="#CCCCCC">Start menus</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> control</font><font color="#E5E5E5"> space and enter</font>
+
+117
+00:05:33,037 --> 00:05:37,084
+<font color="#CCCCCC">now I can move to the next</font><font color="#E5E5E5"> segment again</font>
+
+118
+00:05:35,044 --> 00:05:40,833
+<font color="#E5E5E5">with control you again to recognize</font>
+
+119
+00:05:37,084 --> 00:05:42,118
+<font color="#E5E5E5">terms</font><font color="#CCCCCC"> so controlled space and the rest</font>
+
+120
+00:05:41,229 --> 00:05:46,245
+of the constellation and the last word
+
+121
+00:05:43,018 --> 00:05:49,045
+was menus<font color="#E5E5E5"> for</font><font color="#CCCCCC"> color</font><font color="#E5E5E5"> space and menu next</font>
+
+122
+00:05:46,389 --> 00:05:51,940
+segment control you again recognized him
+
+123
+00:05:49,045 --> 00:05:54,088
+by not so<font color="#E5E5E5"> controlled space</font><font color="#CCCCCC"> can copy it</font>
+
+124
+00:05:51,094 --> 00:05:56,107
+<font color="#E5E5E5">and then rest</font><font color="#CCCCCC"> cyclization</font><font color="#E5E5E5"> and now this</font>
+
+125
+00:05:54,088 --> 00:05:58,096
+<font color="#CCCCCC">word test hello I'm</font><font color="#E5E5E5"> not sure</font><font color="#CCCCCC"> but its</font>
+
+126
+00:05:57,007 --> 00:06:01,051
+meaning<font color="#E5E5E5"> so</font><font color="#CCCCCC"> i would like</font><font color="#E5E5E5"> to perform a</font>
+
+127
+00:05:58,096 --> 00:06:05,235
+<font color="#CCCCCC">concurrent</font><font color="#E5E5E5"> search there is no if I look</font>
+
+128
+00:06:01,051 --> 00:06:08,062
+in the menu edit or go to or if<font color="#CCCCCC"> I right</font>
+
+129
+00:06:06,099 --> 00:06:11,650
+click on the word<font color="#CCCCCC"> i can find anything</font>
+
+130
+00:06:08,062 --> 00:06:13,063
+that points to<font color="#CCCCCC"> conquer and search</font><font color="#E5E5E5"> but</font>
+
+131
+00:06:11,065 --> 00:06:16,141
+<font color="#E5E5E5">don't go to church in a magnitude simply</font>
+
+132
+00:06:13,063 --> 00:06:20,065
+find which is<font color="#E5E5E5"> ctrl f</font><font color="#CCCCCC"> so if</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> not press</font>
+
+133
+00:06:17,041 --> 00:06:24,052
+ctrl<font color="#E5E5E5"> f</font><font color="#CCCCCC"> Omega T will search for this word</font>
+
+134
+00:06:20,083 --> 00:06:27,088
+in not only the memory but also the
+
+135
+00:06:24,052 --> 00:06:31,063
+groceries<font color="#E5E5E5"> so</font><font color="#CCCCCC"> i click on search and</font>
+
+136
+00:06:27,088 --> 00:06:33,927
+indeed here<font color="#CCCCCC"> i have a number of hits from</font>
+
+137
+00:06:31,063 --> 00:06:36,109
+my<font color="#CCCCCC"> BMX</font><font color="#E5E5E5"> translation memory so i can see</font>
+
+138
+00:06:34,719 --> 00:06:37,732
+that toaster<font color="#E5E5E5"> below appears to be</font><font color="#CCCCCC"> back</font>
+
+139
+00:06:37,009 --> 00:06:40,318
+<font color="#CCCCCC">light</font>
+
+140
+00:06:37,849 --> 00:06:42,865
+so<font color="#CCCCCC"> i can select</font><font color="#E5E5E5"> backlights there is no</font>
+
+141
+00:06:40,399 --> 00:06:44,428
+specific<font color="#E5E5E5"> comment for inserting that term</font>
+
+142
+00:06:43,009 --> 00:06:46,045
+into<font color="#E5E5E5"> the target signal so i can press</font>
+
+143
+00:06:44,689 --> 00:06:48,748
+<font color="#CCCCCC">ctrl-c to copy it</font>
+
+144
+00:06:46,369 --> 00:06:52,369
+<font color="#CCCCCC">I'll can close this display and i can</font>
+
+145
+00:06:49,279 --> 00:06:55,490
+insert my<font color="#E5E5E5"> term with</font><font color="#CCCCCC"> ctrl v here so</font>
+
+146
+00:06:52,369 --> 00:06:57,454
+<font color="#E5E5E5">backlight</font><font color="#CCCCCC"> now if I</font><font color="#E5E5E5"> want to add this new</font>
+
+147
+00:06:55,049 --> 00:07:01,055
+<font color="#CCCCCC">term pair</font><font color="#E5E5E5"> has developed backlight to my</font>
+
+148
+00:06:58,219 --> 00:07:04,234
+<font color="#E5E5E5">grocery</font><font color="#CCCCCC"> i can select the source term and</font>
+
+149
+00:07:01,055 --> 00:07:06,080
+the<font color="#CCCCCC"> Edit menu I can</font><font color="#E5E5E5"> select create</font>
+
+150
+00:07:04,369 --> 00:07:08,396
+glossary entry which is also control
+
+151
+00:07:06,008 --> 00:07:11,897
+shift<font color="#CCCCCC"> g</font>
+
+152
+00:07:08,639 --> 00:07:14,490
+now<font color="#CCCCCC"> i have an entry form now</font><font color="#E5E5E5"> can select</font>
+
+153
+00:07:12,689 --> 00:07:16,724
+the corresponding<font color="#E5E5E5"> target terms</font><font color="#CCCCCC"> so</font>
+
+154
+00:07:14,049 --> 00:07:20,408
+<font color="#E5E5E5">backlight and</font><font color="#CCCCCC"> i can press again ctrl</font>
+
+155
+00:07:17,039 --> 00:07:23,108
+shift<font color="#CCCCCC"> g</font><font color="#E5E5E5"> and now i can press ok and this</font>
+
+156
+00:07:20,849 --> 00:07:26,460
+time<font color="#E5E5E5"> pair will be inserted and indeed it</font>
+
+157
+00:07:23,729 --> 00:07:27,776
+appears in the<font color="#CCCCCC"> grocery pain right away</font>
+
+158
+00:07:26,046 --> 00:07:30,905
+<font color="#CCCCCC">now can</font><font color="#E5E5E5"> move to the next segment with</font>
+
+159
+00:07:28,199 --> 00:07:33,251
+control you<font color="#CCCCCC"> here i</font><font color="#E5E5E5"> have a fuzzy match</font>
+
+160
+00:07:31,319 --> 00:07:35,375
+<font color="#E5E5E5">actually</font><font color="#CCCCCC"> I have 250</font><font color="#E5E5E5"> matches but the best</font>
+
+161
+00:07:33,719 --> 00:07:38,610
+one is on top<font color="#E5E5E5"> number</font><font color="#CCCCCC"> one but make it</font>
+
+162
+00:07:35,879 --> 00:07:40,970
+<font color="#E5E5E5">actually gives three different</font><font color="#CCCCCC"> scores</font>
+
+163
+00:07:38,061 --> 00:07:46,370
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> 50 matches so here this particular</font>
+
+164
+00:07:41,789 --> 00:07:48,930
+matches either 66 or 71 or 84<font color="#E5E5E5"> person</font>
+
+165
+00:07:46,919 --> 00:07:50,984
+depending on how you calculate it so
+
+166
+00:07:48,093 --> 00:07:53,121
+whereas most other<font color="#E5E5E5"> catchers only give a</font>
+
+167
+00:07:51,569 --> 00:07:55,622
+single score<font color="#CCCCCC"> Omega T gives you</font><font color="#E5E5E5"> three</font>
+
+168
+00:07:54,021 --> 00:07:58,074
+they are acquainted in a manual and this
+
+169
+00:07:56,099 --> 00:08:01,121
+just shows that calculating<font color="#CCCCCC"> pretty much</font>
+
+170
+00:07:58,074 --> 00:08:03,081
+is not an exact science<font color="#E5E5E5"> so it depends on</font>
+
+171
+00:08:01,319 --> 00:08:06,347
+the tool that you use<font color="#E5E5E5"> and even within</font>
+
+172
+00:08:03,081 --> 00:08:08,106
+the same tool on the method that<font color="#E5E5E5"> you</font><font color="#CCCCCC"> use</font>
+
+173
+00:08:06,599 --> 00:08:12,617
+for<font color="#E5E5E5"> calculating</font><font color="#CCCCCC"> night I want to insert</font>
+
+174
+00:08:09,006 --> 00:08:15,102
+this match<font color="#E5E5E5"> the selected match</font><font color="#CCCCCC"> i can use</font>
+
+175
+00:08:12,779 --> 00:08:16,796
+the<font color="#E5E5E5"> Edit comment and insert match which</font>
+
+176
+00:08:16,002 --> 00:08:19,961
+is<font color="#E5E5E5"> control</font>
+
+177
+00:08:16,949 --> 00:08:21,980
+<font color="#E5E5E5">I there are two differences between the</font>
+
+178
+00:08:19,979 --> 00:08:24,047
+segment<font color="#CCCCCC"> I now need to translate and</font><font color="#E5E5E5"> when</font>
+
+179
+00:08:22,259 --> 00:08:26,306
+that was<font color="#E5E5E5"> positive</font><font color="#CCCCCC"> previously</font><font color="#E5E5E5"> the first</font>
+
+180
+00:08:24,659 --> 00:08:29,681
+one before<font color="#CCCCCC"> i had soared</font><font color="#E5E5E5"> and taxi</font>
+
+181
+00:08:26,729 --> 00:08:33,300
+increase<font color="#CCCCCC"> now I have . taxi</font><font color="#E5E5E5"> which is</font>
+
+182
+00:08:29,879 --> 00:08:35,924
+<font color="#E5E5E5">decrease so</font><font color="#CCCCCC"> I have to fix this</font>
+
+183
+00:08:33,003 --> 00:08:38,912
+<font color="#E5E5E5">the second chance was private previously</font>
+
+184
+00:08:36,329 --> 00:08:41,375
+<font color="#E5E5E5">I had english band which is up and now</font><font color="#CCCCCC"> i</font>
+
+185
+00:08:39,209 --> 00:08:45,060
+have<font color="#CCCCCC"> alice band</font><font color="#E5E5E5"> which is down so</font><font color="#CCCCCC"> I to</font>
+
+186
+00:08:41,789 --> 00:08:48,000
+make this change here and now my<font color="#E5E5E5"> pretty</font>
+
+187
+00:08:45,006 --> 00:08:50,067
+<font color="#E5E5E5">much has been corrected so</font><font color="#CCCCCC"> I can move to</font>
+
+188
+00:08:48,000 --> 00:08:53,001
+the next segment<font color="#E5E5E5"> with control you again</font>
+
+189
+00:08:50,067 --> 00:08:56,070
+when<font color="#CCCCCC"> recognized terms so controlled</font>
+
+190
+00:08:53,001 --> 00:08:58,850
+space<font color="#CCCCCC"> i can insert it type the rest of</font>
+
+191
+00:08:56,097 --> 00:09:00,114
+the translation<font color="#E5E5E5"> and in this particular</font>
+
+192
+00:08:58,949 --> 00:09:03,950
+<font color="#E5E5E5">segment there are two tags which</font>
+
+193
+00:09:01,014 --> 00:09:06,057
+indicates the fact that this portion of
+
+194
+00:09:03,959 --> 00:09:09,690
+text<font color="#E5E5E5"> here was in italic in the original</font>
+
+195
+00:09:06,057 --> 00:09:11,118
+document<font color="#E5E5E5"> so i need to insert the same</font>
+
+196
+00:09:09,069 --> 00:09:13,167
+tags around the corresponding<font color="#E5E5E5"> portion of</font>
+
+197
+00:09:12,018 --> 00:09:17,074
+text here for that<font color="#CCCCCC"> i can either use</font>
+
+198
+00:09:14,067 --> 00:09:20,080
+control space
+
+199
+00:09:17,074 --> 00:09:22,135
+and then select the tag<font color="#CCCCCC"> need and then</font>
+
+200
+00:09:20,008 --> 00:09:25,051
+<font color="#CCCCCC">move</font><font color="#E5E5E5"> to the end and press again control</font>
+
+201
+00:09:23,035 --> 00:09:28,117
+space and insert<font color="#CCCCCC"> the missing time or</font><font color="#E5E5E5"> i</font>
+
+202
+00:09:26,023 --> 00:09:31,084
+can select the portion of text that will
+
+203
+00:09:29,017 --> 00:09:35,074
+be enclosed between tags and<font color="#E5E5E5"> i can press</font>
+
+204
+00:09:31,084 --> 00:09:37,096
+<font color="#CCCCCC">ctrl</font><font color="#E5E5E5"> space and I have both tags that can</font>
+
+205
+00:09:35,074 --> 00:09:38,167
+be inserted at the same time<font color="#E5E5E5"> now my</font>
+
+206
+00:09:37,096 --> 00:09:40,102
+<font color="#E5E5E5">transition is ready so</font><font color="#CCCCCC"> i can it</font>
+
+207
+00:09:39,067 --> 00:09:41,155
+generates the target version of the
+
+208
+00:09:41,056 --> 00:09:44,128
+document for that
+
+209
+00:09:42,055 --> 00:09:48,103
+select project and save translated
+
+210
+00:09:45,028 --> 00:09:52,063
+documents which is<font color="#CCCCCC"> ctrl D so if i go to</font>
+
+211
+00:09:49,003 --> 00:09:56,038
+<font color="#CCCCCC">Windows</font><font color="#E5E5E5"> Explorer and go to documents and</font>
+
+212
+00:09:52,063 --> 00:09:59,095
+<font color="#CCCCCC">Omega T and my project folder</font><font color="#E5E5E5"> and the</font>
+
+213
+00:09:56,038 --> 00:10:02,041
+target folder<font color="#CCCCCC"> i should find</font><font color="#E5E5E5"> my</font><font color="#CCCCCC"> trusted</font>
+
+214
+00:09:59,095 --> 00:10:04,132
+<font color="#CCCCCC">document so if i open it</font><font color="#E5E5E5"> it's in</font><font color="#CCCCCC"> English</font>
+
+215
+00:10:02,068 --> 00:10:07,087
+and it looks like everything is<font color="#CCCCCC"> ok</font>
+
+216
+00:10:05,032 --> 00:10:09,121
+<font color="#CCCCCC">including the formatting that we applied</font>
+
+217
+00:10:07,087 --> 00:10:11,128
+the tags<font color="#CCCCCC"> so there you have it</font>
+
+218
+00:10:10,021 --> 00:10:14,110
+how to trust ate a small word document
+
+219
+00:10:12,028 --> 00:10:17,050
+using negative version<font color="#CCCCCC"> for Thank You</font>
+
+220
+00:10:15,001 --> 00:10:19,084
+<font color="#CCCCCC">fortune</font><font color="#E5E5E5"> to subscribe to my channel for</font>
+
+221
+00:10:17,005 --> 00:10:21,103
+more similar content also hit the like
+
+222
+00:10:19,093 --> 00:10:24,100
+button if you found this video useful to
+
+223
+00:10:22,048 --> 00:10:27,100
+use comments below this video if you
+
+224
+00:10:25,000 --> 00:10:33,081
+have any questions or feedback and see
+
+225
+00:10:28,000 --> 00:10:33,081
+you in the next one
+

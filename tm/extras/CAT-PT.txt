@@ -1,0 +1,8 @@
+﻿A tradução assistida (ou auxiliada) por computador, conhecida pela sigla em inglês CAT, é uma forma de traduzir idiomas na qual um tradutor humano usa um programa de computador para apoiar e facilitar o processo de tradução.
+A tradução assistida por computador às vezes  é chamada de tradução assistida (ou auxiliada) por máquina (não confundir com tradução automática).
+Visão geral
+Os sistemas de tradução automática disponíveis hoje não são capazes de produzir traduções de alta qualidade sem revisão: a produção deve ser editada por um ser humano para corrigir erros e melhorar a qualidade da tradução.
+A tradução assistida por computador (CAT) incorpora esta etapa de edição manual no software, fazendo da tradução um processo interativo entre ser humano e computador. [1]
+Algumas soluções de tradução assistidas por computador promovidas incluem a tradução automática (MT) controlada.
+Os módulos de TA de preço mais alto geralmente fornecem um conjunto de ferramentas mais completo para o tradutor, que pode incluir recursos de gestão de terminologia e vários outras ferramentas linguísticas e utilitários.
+Os dicionários de usuário cuidadosamente construídos baseados na terminologia correta significativamente melhoram a exatidão da TA, e por conseguinte, visam ao aumento da eficiência do processo de tradução inteiro.
